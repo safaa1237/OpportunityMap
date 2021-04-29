@@ -1,0 +1,2291 @@
+{
+  "next_offset": 20,
+  "records": [
+    {
+      "id": "a37e7a62-a834-11eb-bee6-5254009506bd",
+      "name": "Coolview Net Ltd",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sally_id",
+      "modified_by_name": "Sally Bronsen",
+      "modified_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sally_id",
+      "created_by_name": "Sally Bronsen",
+      "created_by_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Coolview Net Ltd",
+      "accounts": {
+        "name": "Coolview Net Ltd",
+        "id": "8cefa24e-a834-11eb-ac2c-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8cefa24e-a834-11eb-ac2c-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Cold Call",
+      "amount": "2696.000000",
+      "amount_usdollar": "2696.000000",
+      "date_closed": "2021-04-30",
+      "date_closed_timestamp": 1619795759,
+      "next_step": "",
+      "sales_stage": "Needs Analysis",
+      "sales_status": "New",
+      "probability": 25,
+      "best_case": "2696.000000",
+      "worst_case": "2696.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sally_id",
+      "assigned_user_name": "Sally Bronsen",
+      "assigned_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e72c4-a834-11eb-ad83-5254009506bd",
+      "name": "Pullman Cart Company",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Pullman Cart Company",
+      "accounts": {
+        "name": "Pullman Cart Company",
+        "id": "8e998e98-a834-11eb-9f21-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8e998e98-a834-11eb-9f21-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Employee",
+      "amount": "1110.000000",
+      "amount_usdollar": "1110.000000",
+      "date_closed": "2021-04-28",
+      "date_closed_timestamp": 1619622959,
+      "next_step": "",
+      "sales_stage": "Value Proposition",
+      "sales_status": "New",
+      "probability": 30,
+      "best_case": "1110.000000",
+      "worst_case": "1110.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e6b9e-a834-11eb-889d-5254009506bd",
+      "name": "Draft Diversified Energy Inc",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Draft Diversified Energy Inc",
+      "accounts": {
+        "name": "Draft Diversified Energy Inc",
+        "id": "8eec2f5e-a834-11eb-a2b0-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8eec2f5e-a834-11eb-a2b0-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Cold Call",
+      "amount": "3484.000000",
+      "amount_usdollar": "3484.000000",
+      "date_closed": "2021-04-15",
+      "date_closed_timestamp": 1618499759,
+      "next_step": "",
+      "sales_stage": "Closed Lost",
+      "sales_status": "New",
+      "probability": 0,
+      "best_case": "3484.000000",
+      "worst_case": "3484.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e646e-a834-11eb-affd-5254009506bd",
+      "name": "Avery Software Co",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Avery Software Co",
+      "accounts": {
+        "name": "Avery Software Co",
+        "id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "",
+      "amount": "1826.000000",
+      "amount_usdollar": "1826.000000",
+      "date_closed": "2021-05-31",
+      "date_closed_timestamp": 1622474159,
+      "next_step": "",
+      "sales_stage": "Prospecting",
+      "sales_status": "New",
+      "probability": 10,
+      "best_case": "1826.000000",
+      "worst_case": "1826.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e5d48-a834-11eb-afc1-5254009506bd",
+      "name": "Waverly Trading House",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sally_id",
+      "modified_by_name": "Sally Bronsen",
+      "modified_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sally_id",
+      "created_by_name": "Sally Bronsen",
+      "created_by_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "New Business",
+      "account_name": "Waverly Trading House",
+      "accounts": {
+        "name": "Waverly Trading House",
+        "id": "8f1d9a30-a834-11eb-877b-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8f1d9a30-a834-11eb-877b-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Cold Call",
+      "amount": "4273.000000",
+      "amount_usdollar": "4273.000000",
+      "date_closed": "2022-03-31",
+      "date_closed_timestamp": 1648739759,
+      "next_step": "",
+      "sales_stage": "Prospecting",
+      "sales_status": "New",
+      "probability": 10,
+      "best_case": "4273.000000",
+      "worst_case": "4273.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sally_id",
+      "assigned_user_name": "Sally Bronsen",
+      "assigned_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e55d2-a834-11eb-9aa5-5254009506bd",
+      "name": "King Software Inc",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_chris_id",
+      "modified_by_name": "Chris Olliver",
+      "modified_user_link": {
+        "full_name": "Chris Olliver",
+        "id": "seed_chris_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_chris_id",
+      "created_by_name": "Chris Olliver",
+      "created_by_link": {
+        "full_name": "Chris Olliver",
+        "id": "seed_chris_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "Existing Business",
+      "account_name": "King Software Inc",
+      "accounts": {
+        "name": "King Software Inc",
+        "id": "900511ee-a834-11eb-b0c0-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "900511ee-a834-11eb-b0c0-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Employee",
+      "amount": "5841.000000",
+      "amount_usdollar": "5841.000000",
+      "date_closed": "2022-03-30",
+      "date_closed_timestamp": 1648653359,
+      "next_step": "",
+      "sales_stage": "Qualification",
+      "sales_status": "New",
+      "probability": 20,
+      "best_case": "5841.000000",
+      "worst_case": "5841.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_chris_id",
+      "assigned_user_name": "Chris Olliver",
+      "assigned_user_link": {
+        "full_name": "Chris Olliver",
+        "id": "seed_chris_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "East",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "1",
+          "name": "Global",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": true
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": false
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e4eac-a834-11eb-8a54-5254009506bd",
+      "name": "Waverly Trading House",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sally_id",
+      "modified_by_name": "Sally Bronsen",
+      "modified_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sally_id",
+      "created_by_name": "Sally Bronsen",
+      "created_by_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "Existing Business",
+      "account_name": "Waverly Trading House",
+      "accounts": {
+        "name": "Waverly Trading House",
+        "id": "8f1d9a30-a834-11eb-877b-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8f1d9a30-a834-11eb-877b-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Other",
+      "amount": "4781.000000",
+      "amount_usdollar": "4781.000000",
+      "date_closed": "2021-04-28",
+      "date_closed_timestamp": 1619622959,
+      "next_step": "",
+      "sales_stage": "Proposal/Price Quote",
+      "sales_status": "New",
+      "probability": 65,
+      "best_case": "4781.000000",
+      "worst_case": "4781.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sally_id",
+      "assigned_user_name": "Sally Bronsen",
+      "assigned_user_link": {
+        "full_name": "Sally Bronsen",
+        "id": "seed_sally_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e4786-a834-11eb-b0e2-5254009506bd",
+      "name": "Max Holdings Ltd",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_will_id",
+      "modified_by_name": "Will Westin",
+      "modified_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_will_id",
+      "created_by_name": "Will Westin",
+      "created_by_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "New Business",
+      "account_name": "Max Holdings Ltd",
+      "accounts": {
+        "name": "Max Holdings Ltd",
+        "id": "8eb26ad0-a834-11eb-a876-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8eb26ad0-a834-11eb-a876-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Word of mouth",
+      "amount": "1472.000000",
+      "amount_usdollar": "1472.000000",
+      "date_closed": "2020-10-05",
+      "date_closed_timestamp": 1601910959,
+      "next_step": "",
+      "sales_stage": "Closed Lost",
+      "sales_status": "New",
+      "probability": 0,
+      "best_case": "1472.000000",
+      "worst_case": "1472.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_will_id",
+      "assigned_user_name": "Will Westin",
+      "assigned_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "East",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e4060-a834-11eb-9d7e-5254009506bd",
+      "name": "AtoZ Co Ltd",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "Existing Business",
+      "account_name": "AtoZ Co Ltd",
+      "accounts": {
+        "name": "AtoZ Co Ltd",
+        "id": "8c8c1e2c-a834-11eb-85c5-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8c8c1e2c-a834-11eb-85c5-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Word of mouth",
+      "amount": "7129.000000",
+      "amount_usdollar": "7129.000000",
+      "date_closed": "2021-03-05",
+      "date_closed_timestamp": 1614957359,
+      "next_step": "",
+      "sales_stage": "Closed Lost",
+      "sales_status": "New",
+      "probability": 0,
+      "best_case": "7129.000000",
+      "worst_case": "7129.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e393a-a834-11eb-b721-5254009506bd",
+      "name": "SuperG Tech",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "SuperG Tech",
+      "accounts": {
+        "name": "SuperG Tech",
+        "id": "8c32de16-a834-11eb-b022-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8c32de16-a834-11eb-b022-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Cold Call",
+      "amount": "2535.000000",
+      "amount_usdollar": "2535.000000",
+      "date_closed": "2021-07-28",
+      "date_closed_timestamp": 1627485359,
+      "next_step": "",
+      "sales_stage": "Needs Analysis",
+      "sales_status": "New",
+      "probability": 25,
+      "best_case": "2535.000000",
+      "worst_case": "2535.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "1",
+          "name": "Global",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e3228-a834-11eb-8b84-5254009506bd",
+      "name": "Tortoise Corp",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_jim_id",
+      "modified_by_name": "Jim Brennan",
+      "modified_user_link": {
+        "full_name": "Jim Brennan",
+        "id": "seed_jim_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_jim_id",
+      "created_by_name": "Jim Brennan",
+      "created_by_link": {
+        "full_name": "Jim Brennan",
+        "id": "seed_jim_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "Existing Business",
+      "account_name": "Tortoise Corp",
+      "accounts": {
+        "name": "Tortoise Corp",
+        "id": "8c137792-a834-11eb-96e4-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8c137792-a834-11eb-96e4-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Public Relations",
+      "amount": "5283.000000",
+      "amount_usdollar": "5283.000000",
+      "date_closed": "2022-02-28",
+      "date_closed_timestamp": 1646061359,
+      "next_step": "",
+      "sales_stage": "Negotiation/Review",
+      "sales_status": "New",
+      "probability": 80,
+      "best_case": "5283.000000",
+      "worst_case": "5283.000000",
+      "commit_stage": "include",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_jim_id",
+      "assigned_user_name": "Jim Brennan",
+      "assigned_user_link": {
+        "full_name": "Jim Brennan",
+        "id": "seed_jim_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "East",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": true
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": false
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e2af8-a834-11eb-8169-5254009506bd",
+      "name": "Avery Software Co",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "New Business",
+      "account_name": "Avery Software Co",
+      "accounts": {
+        "name": "Avery Software Co",
+        "id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Email",
+      "amount": "6666.000000",
+      "amount_usdollar": "6666.000000",
+      "date_closed": "2021-03-06",
+      "date_closed_timestamp": 1615043759,
+      "next_step": "",
+      "sales_stage": "Closed Lost",
+      "sales_status": "New",
+      "probability": 0,
+      "best_case": "6666.000000",
+      "worst_case": "6666.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e23dc-a834-11eb-b611-5254009506bd",
+      "name": "Avery Software Co",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "New Business",
+      "account_name": "Avery Software Co",
+      "accounts": {
+        "name": "Avery Software Co",
+        "id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8fcc0700-a834-11eb-89b2-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Email",
+      "amount": "1888.000000",
+      "amount_usdollar": "1888.000000",
+      "date_closed": "2021-04-30",
+      "date_closed_timestamp": 1619795759,
+      "next_step": "",
+      "sales_stage": "Id. Decision Makers",
+      "sales_status": "New",
+      "probability": 40,
+      "best_case": "1888.000000",
+      "worst_case": "1888.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e1cb6-a834-11eb-bfa7-5254009506bd",
+      "name": "Smith & Sons",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Smith & Sons",
+      "accounts": {
+        "name": "Smith & Sons",
+        "id": "90885180-a834-11eb-9c7d-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "90885180-a834-11eb-9c7d-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Direct Mail",
+      "amount": "3034.000000",
+      "amount_usdollar": "3034.000000",
+      "date_closed": "2021-11-28",
+      "date_closed_timestamp": 1638112559,
+      "next_step": "",
+      "sales_stage": "Negotiation/Review",
+      "sales_status": "New",
+      "probability": 80,
+      "best_case": "3034.000000",
+      "worst_case": "3034.000000",
+      "commit_stage": "include",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e15ae-a834-11eb-b5b8-5254009506bd",
+      "name": "NW Capital Corp",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "NW Capital Corp",
+      "accounts": {
+        "name": "NW Capital Corp",
+        "id": "8b81ca72-a834-11eb-9b13-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8b81ca72-a834-11eb-9b13-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Other",
+      "amount": "3387.000000",
+      "amount_usdollar": "3387.000000",
+      "date_closed": "2020-08-26",
+      "date_closed_timestamp": 1598454959,
+      "next_step": "",
+      "sales_stage": "Closed Lost",
+      "sales_status": "New",
+      "probability": 0,
+      "best_case": "3387.000000",
+      "worst_case": "3387.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e0e88-a834-11eb-85cf-5254009506bd",
+      "name": "Smith & Sons",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_sarah_id",
+      "modified_by_name": "Sarah Smith",
+      "modified_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_sarah_id",
+      "created_by_name": "Sarah Smith",
+      "created_by_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "New Business",
+      "account_name": "Smith & Sons",
+      "accounts": {
+        "name": "Smith & Sons",
+        "id": "90885180-a834-11eb-9c7d-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "90885180-a834-11eb-9c7d-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Other",
+      "amount": "1831.000000",
+      "amount_usdollar": "1831.000000",
+      "date_closed": "2021-08-28",
+      "date_closed_timestamp": 1630163759,
+      "next_step": "",
+      "sales_stage": "Perception Analysis",
+      "sales_status": "New",
+      "probability": 50,
+      "best_case": "1831.000000",
+      "worst_case": "1831.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_sarah_id",
+      "assigned_user_name": "Sarah Smith",
+      "assigned_user_link": {
+        "full_name": "Sarah Smith",
+        "id": "seed_sarah_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e0762-a834-11eb-88f1-5254009506bd",
+      "name": "P Piper & Sons",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_will_id",
+      "modified_by_name": "Will Westin",
+      "modified_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_will_id",
+      "created_by_name": "Will Westin",
+      "created_by_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "P Piper & Sons",
+      "accounts": {
+        "name": "P Piper & Sons",
+        "id": "8f0476b8-a834-11eb-9fce-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8f0476b8-a834-11eb-9fce-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Email",
+      "amount": "3936.000000",
+      "amount_usdollar": "3936.000000",
+      "date_closed": "2021-05-31",
+      "date_closed_timestamp": 1622474159,
+      "next_step": "",
+      "sales_stage": "Id. Decision Makers",
+      "sales_status": "New",
+      "probability": 40,
+      "best_case": "3936.000000",
+      "worst_case": "3936.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_will_id",
+      "assigned_user_name": "Will Westin",
+      "assigned_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "East",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37e003c-a834-11eb-a789-5254009506bd",
+      "name": "S Cane Sweeteners Ltd",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_will_id",
+      "modified_by_name": "Will Westin",
+      "modified_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_will_id",
+      "created_by_name": "Will Westin",
+      "created_by_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "S Cane Sweeteners Ltd",
+      "accounts": {
+        "name": "S Cane Sweeteners Ltd",
+        "id": "8d2df602-a834-11eb-8c5d-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8d2df602-a834-11eb-8c5d-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Other",
+      "amount": "7339.000000",
+      "amount_usdollar": "7339.000000",
+      "date_closed": "2021-06-30",
+      "date_closed_timestamp": 1625066159,
+      "next_step": "",
+      "sales_stage": "Id. Decision Makers",
+      "sales_status": "New",
+      "probability": 40,
+      "best_case": "7339.000000",
+      "worst_case": "7339.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_will_id",
+      "assigned_user_name": "Will Westin",
+      "assigned_user_link": {
+        "full_name": "Will Westin",
+        "id": "seed_will_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "East",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "1",
+          "name": "Global",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37df920-a834-11eb-ab6e-5254009506bd",
+      "name": "Hammer Group Inc",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Hammer Group Inc",
+      "accounts": {
+        "name": "Hammer Group Inc",
+        "id": "8b9ed8e2-a834-11eb-a1b9-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8b9ed8e2-a834-11eb-a1b9-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "Email",
+      "amount": "5509.000000",
+      "amount_usdollar": "5509.000000",
+      "date_closed": "2021-07-31",
+      "date_closed_timestamp": 1627744559,
+      "next_step": "",
+      "sales_stage": "Perception Analysis",
+      "sales_status": "New",
+      "probability": 50,
+      "best_case": "5509.000000",
+      "worst_case": "5509.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    },
+    {
+      "id": "a37df1fa-a834-11eb-a3c9-5254009506bd",
+      "name": "Overhead & Underfoot Ltd.",
+      "date_entered": "2021-04-28T17:15:07+02:00",
+      "date_modified": "2021-04-28T17:15:07+02:00",
+      "modified_user_id": "seed_max_id",
+      "modified_by_name": "Max Jensen",
+      "modified_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "created_by": "seed_max_id",
+      "created_by_name": "Max Jensen",
+      "created_by_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "description": "",
+      "deleted": false,
+      "opportunity_type": "",
+      "account_name": "Overhead & Underfoot Ltd.",
+      "accounts": {
+        "name": "Overhead & Underfoot Ltd.",
+        "id": "8bf8d55e-a834-11eb-a56a-5254009506bd",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "account_id": "8bf8d55e-a834-11eb-a56a-5254009506bd",
+      "campaign_id": "",
+      "campaign_name": "",
+      "campaign_opportunities": {
+        "name": "",
+        "id": "",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "lead_source": "",
+      "amount": "1163.000000",
+      "amount_usdollar": "1163.000000",
+      "date_closed": "2022-02-28",
+      "date_closed_timestamp": 1646061359,
+      "next_step": "",
+      "sales_stage": "Qualification",
+      "sales_status": "New",
+      "probability": 20,
+      "best_case": "1163.000000",
+      "worst_case": "1163.000000",
+      "commit_stage": "exclude",
+      "contact_role": "",
+      "mkto_sync": false,
+      "mkto_id": null,
+      "following": false,
+      "my_favorite": false,
+      "tag": [],
+      "assigned_user_id": "seed_max_id",
+      "assigned_user_name": "Max Jensen",
+      "assigned_user_link": {
+        "full_name": "Max Jensen",
+        "id": "seed_max_id",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_count": "",
+      "team_count_link": {
+        "team_count": "",
+        "id": "West",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        }
+      },
+      "team_name": [
+        {
+          "id": "East",
+          "name": "East",
+          "name_2": "",
+          "primary": false
+        },
+        {
+          "id": "West",
+          "name": "West",
+          "name_2": "",
+          "primary": true
+        }
+      ],
+      "currency_id": "-99",
+      "base_rate": "1.000000",
+      "currency_name": "",
+      "currencies": {
+        "name": "",
+        "id": "-99",
+        "_acl": {
+          "fields": [],
+          "_hash": "654d337e0e912edaa00dbb0fb3dc3c17"
+        },
+        "symbol": ""
+      },
+      "currency_symbol": "",
+      "_acl": {
+        "fields": {}
+      },
+      "_module": "Opportunities"
+    }
+  ]
+}
